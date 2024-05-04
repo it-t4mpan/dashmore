@@ -2,7 +2,7 @@
 
 
 - Fungsi Script:
-1. Monitoring Status Situs Web:
+1. Monitoring Status Website:
 - Script ini digunakan untuk memantau status situs web dengan melakukan permintaan HTTP (melalui cURL) ke daftar situs yang telah ditentukan.
 - Untuk setiap situs web, script akan menampilkan status (UP atau DOWN), waktu respons, dan waktu terakhir cek.
 
