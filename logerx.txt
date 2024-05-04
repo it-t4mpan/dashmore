@@ -1,0 +1,14 @@
+
+                       _  ___        
+                      | |/ _ \       
+ __  _____  __ _ _ __ | | | | | __ _ 
+ \ \/ / __|/ _` | '_ \| | | | |/ _` |
+  >  <\__ \ (_| | | | | | |_| | (_| |
+ /_/\_\___/\__,_|_| |_|_|\___/ \__, |
+                                __/ |
+                               |___/ 
+-------------------------------------
+
+2024-05-02 09:55:24 - https://e-sikda.kemkes.go.id/3215/ responded with 200 and took 346.38ms
+2024-05-02 09:55:24 - https://webskrining.bpjs-kesehatan.go.id/ responded with 200 and took 27.19ms
+2024-05-02 09:55:24 - https://pcarejkn.bpjs-kesehatan.go.id responded with 200 and took 105.61ms
