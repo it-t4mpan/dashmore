@@ -5,7 +5,7 @@ $websites = [
     "SIKDA Generik" => "https://e-sikda.kemkes.go.id/3215/",
     "BPJS Kesehatan Skrining" => "https://webskrining.bpjs-kesehatan.go.id/",
     "PCare BPJS Kesehatan" => "https://pcarejkn.bpjs-kesehatan.go.id",
-    "JAKARTA" => "https://jakarta.go.id",
+    "JAKARTA" => "https://jakarta.go.id/",
     "JAKSEHAT" => "https://jaksehat.jakarta.go.id/",
     "Web pcare Reset Pass" => "https://registrasi.bpjs-kesehatan.go.id"
 ];
