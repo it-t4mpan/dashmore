@@ -29,3 +29,8 @@
 # --- Catatan: ---
 - Pastikan script ini digunakan dengan bijaksana dan disesuaikan dengan kebutuhan spesifik Anda, termasuk penyesuaian keamanan tambahan sesuai dengan lingkungan aplikasi web Anda.
 - Monitor log secara berkala untuk memastikan bahwa aktivitas monitor situs web berjalan dengan baik dan tidak ada masalah yang tidak terduga.
+
+# Changelog
+- Update UI/UX
+- Added Tailwindcss
+- Added Darkmode and lightmode
